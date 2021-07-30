@@ -1,1 +1,52 @@
-{"AdMob":{"activated":false,"banner":"ca-app-pub-3940256099942544/6300978111","native":"ca-app-pub-3940256099942544/2247696110","interstitial":"ca-app-pub-3940256099942544/1033173712"},"FAN":{"activated":false,"banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID","native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID","interstitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"},"TapDaq":{"activated":false,"appId":"xxxxxxxxxxxxxxx","clientKey":"xxxxxxxxxxxxxxxxxxxxxxxxxxx","placementTag":"all"},"guid":[{"scan":"<p>An audit allows you to take a detailed analysis of your marketing. A comprehensive audit will cover all areas of your promotional efforts and considers your goals, principles, and strategies. Typically, an audit will look at your internal and external promotional efforts and examine all your marketing properties, such as your website content, blogs, and email response rates.</p>","create":"creare description","history":"history","setting":"setting"}],"exit":[{"imageUrl":"https://elbertewagner.github.io/adsaccount5/index.jpg","appName":"Guid App1","appUrl":"https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"},{"imageUrl":"https://elbertewagner.github.io/adsaccount5/index.jpg","appName":"Guid App2","appUrl":"https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"},{"imageUrl":"https://elbertewagner.github.io/adsaccount5/index.jpg","appName":"Guid App3","appUrl":"https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"},{"imageUrl":"https://firebasestorage.googleapis.com/v0/b/ipl-app-39cfe.appspot.com/o/lrp_AtSy_400x400.jpg?alt=media&token=32b34e8b-8dbe-4960-8b6a-af121472e826","smallUrl":"https://firebasestorage.googleapis.com/v0/b/ipl-app-39cfe.appspot.com/o/lrp_AtSy_400x400.jpg?alt=media&token=32b34e8b-8dbe-4960-8b6a-af121472e826","appName":"Guid App4","exitAppMsg":"exit msg","appUrl":"https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"}]}
+{
+  "AdMob": {
+    "activated": false,
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "native": "ca-app-pub-3940256099942544/2247696110",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712"
+  },
+  "FAN": {
+    "activated": false,
+    "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+  },
+  "TapDaq": {
+    "activated": false,
+    "appId": "xxxxxxxxxxxxxxx",
+    "clientKey": "xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "placementTag": "all"
+  },
+  "guid": [
+    {
+      "scan": "<p>\nSince online casino games are quite simple, most people think thatthey cannot help them make money on the internet. According to reality,casino game players make almost the same amount of money as those whoplay in traditional casinos.\nAs a matter of fact, you can makethousands of dollars if you know how to play well. You can also usecryptocurrency to make payments.\n.</p>",
+      "create": "Since there is stiff competition between players at online casinos,you can rest assured that they offer impressive payout ratios. In mostcases, the payout ratio can be up to 95% or higher.\nTherefore,most players go online to play their desired games and earn money. Apartfrom stiff competition, another great thing about this game is that youdon't have to get out of your home and travel to the casino.",
+      "history": "Another great advantage of playing on online casinos is that you canplay anonymously. All you need to do is browse the casino game websiteand sit in your desired chair. As long as your computer is connected tothe internet, you can continue to play.\nThese websites are quite safe, fast, and convenient. Plus, they are an ideal choice when it comes to bonuses and payouts.",
+      "setting": "When it comes to bonuses, online casino games are quite impressive.Physical casinos really give bonuses to players when they purchasechips. On the other hand, online platforms will give you a bonus as soonas you have made your first deposit.\nThe great thing is thatthese bonuses can be equal to the amount you have deposited. So, you canget access to hundreds of additional dollars to play online for free ofcharge."
+    }
+  ],
+  "exit": [
+    {
+      "imageUrl": "https://elbertewagner.github.io/adsaccount5/index.jpg",
+      "appName": "Guid App1",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"
+    },
+    {
+      "imageUrl": "https://elbertewagner.github.io/adsaccount5/index.jpg",
+      "appName": "Guid App2",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"
+    },
+    {
+      "imageUrl": "https://elbertewagner.github.io/adsaccount5/index.jpg",
+      "appName": "Guid App3",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"
+    },
+    {
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/ipl-app-39cfe.appspot.com/o/lrp_AtSy_400x400.jpg?alt=media&token=32b34e8b-8dbe-4960-8b6a-af121472e826",
+      "smallUrl": "https://firebasestorage.googleapis.com/v0/b/ipl-app-39cfe.appspot.com/o/lrp_AtSy_400x400.jpg?alt=media&token=32b34e8b-8dbe-4960-8b6a-af121472e826",
+      "appName": "Guid App4",
+      "exitAppMsg": "exit msg",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"
+    }
+  ]
+}
