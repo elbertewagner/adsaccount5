@@ -1,9 +1,9 @@
 {
   "AdMob": {
-    "activated": false,
-    "banner": "ca-app-pub-5619408444769069/5886482115",
-    "native": "ca-app-pub-5619408444769069/4006779450",
-    "interstitial": "ca-app-pub-5619408444769069/2925083335"
+    "activated": true,
+    "banner": "ca-app-pub-8913357733336567/8716507629",
+    "native": "",
+    "interstitial": ""
   },
   "FAN": {
     "activated": false,
@@ -12,7 +12,7 @@
     "interstitial": "825068451537600_825966751447770"
   },
   "TapDaq": {
-    "activated": true,
+    "activated": false,
     "appId": "611114fa08fe6c2d735d69bb",
     "clientKey": "54c9b78a-0977-4333-90fe-809486bf1d5a",
     "placementTag": "all"
